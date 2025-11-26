@@ -1,0 +1,13 @@
+CREDITS
+
+AstroQuest was developed as part of the 3rd Semester
+Object-Oriented Programming (Java) Lab Mini Project.
+
+Through this project, we learned to effectively apply
+key OOP concepts such as encapsulation, inheritance,
+and polymorphism, while creating an engaging interface
+using Java Swing. The process also enhanced our teamwork,
+problem-solving, and software design skills — helping us
+understand how to turn ideas into meaningful, interactive applications.
+
+(Amisha Mittal, Sheen Sharma , Harshita Saxena)

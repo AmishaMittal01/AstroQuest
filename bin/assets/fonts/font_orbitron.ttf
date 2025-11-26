@@ -1,0 +1,8 @@
+try {
+    Font orbitron = Font.createFont(Font.TRUETYPE_FONT,
+        new java.io.File("assets/font_orbitron.ttf")).deriveFont(42f);
+    GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
+    ge.registerFont(orbitron);
+} catch (Exception e) {
+    e.printStackTrace();
+}

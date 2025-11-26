@@ -1,0 +1,5 @@
+Welcome to AstroQuest! 
+
+AstroQuest is an educational space exploration adventure.
+You’ll embark on missions, uncover cosmic secrets,
+and learn about planets, galaxies, and the wonders of the universe.
